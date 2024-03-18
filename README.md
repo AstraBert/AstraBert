@@ -25,6 +25,7 @@
 
 <a href="https://github.com/AstraBert">
     <img src="https://github-stats-alpha.vercel.app/api?username=AstraBert&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraBert&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 - 👋 Hi, I’m Astra Bertelli, a 21-years-old BS student in Biological Sciences at University of Pavia (Italy)
