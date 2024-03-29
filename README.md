@@ -28,11 +28,15 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraBert&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-- 👋 Hi, I’m Astra Bertelli, a 21-years-old BS student in Biological Sciences at University of Pavia (Italy)
-- 👀 I’m interested in bioinformatics applied to genomics, especially in the fields of biodiversity conservation and phylogenetics
-- 🌱 I’m currently learning how to apply python, bash, R and other languages to the development of user-friendly and innovative tools to carry out genomic analyses
-- 💞️ I’m looking to collaborate on bioinformatically-related, tool development-oriented projects
-- 📫 How to reach me: visit my [website](https://astrabert.vercel.app/), [email me](astra.bertelli01@universitadipavia.it) or find me on [LinkedIn](www.linkedin.com/in/astra-bertelli-583904297)
+👋 &nbsp;Hi, I’m Astra Bertelli, a 21-years-old student and (bio)informatics geek\
+💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems.\
+🎓 &nbsp;I'm currently studying Biological Science at the University of Pavia (Italy).\
+🌱 &nbsp;I'm on track for learning more about Bioinformatics applied to genomics, Artificial Intelligence and Machine Learning.\
+💞️ &nbsp;I’m looking to collaborate on bioinformatically-related and ML/AI-oriented projects.\
+💭 &nbsp;I'm determined to democratise the access to genomics, help the environment and fight biodiversity loss\
+✉️ &nbsp;[Email me](astra.bertelli01@universitadipavia.it)! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at [website](https://astrabert.vercel.app/) and [Résumé](https://astrabert.vercel.app/Resume.pdf) for more details about me,  or find me on [LinkedIn](www.linkedin.com/in/astra-bertelli-583904297): I'm open to feedback and suggestions!
+
 
 <!---
 AstraBert/AstraBert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
