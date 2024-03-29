@@ -30,7 +30,7 @@
 
 👋 &nbsp;Hi, I’m Astra Bertelli, a 21-years-old student and (bio)informatics geek\
 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems.\
-🎓 &nbsp;I'm currently studying Biological Science at the University of Pavia (Italy).\
+🎓 &nbsp;I'm currently studying Biological Sciences at the University of Pavia (Italy).\
 🌱 &nbsp;I'm on track for learning more about Bioinformatics applied to genomics, Artificial Intelligence and Machine Learning.\
 💞️ &nbsp;I’m looking to collaborate on bioinformatically-related and ML/AI-oriented projects.\
 💭 &nbsp;I'm determined to democratise the access to genomics, help the environment and fight biodiversity loss\
