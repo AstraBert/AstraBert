@@ -7,6 +7,9 @@
 <a href="https://astrabert.vercel.app">
     <img src="https://img.shields.io/badge/Website-astrabert.vercel.app-red?style=flat-square">
 </a>  
+<a href="https://astrabert.github.io/hophop-science/">
+    <img src="https://img.shields.io/badge/My Blog-HOPHOP Science-purple?style=flat-square">
+</a>  
 <a href="https://astrabert.vercel.app/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
@@ -35,7 +38,9 @@
 💞️ &nbsp;I’m looking to collaborate on bioinformatically-related and ML/AI-oriented projects.\
 💭 &nbsp;I'm determined to democratise the access to genomics, help the environment and fight biodiversity loss\
 ✉️ &nbsp;[Email me](astra.bertelli01@universitadipavia.it)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at [website](https://astrabert.vercel.app/) and [Résumé](https://astrabert.vercel.app/Resume.pdf) for more details about me,  or find me on [LinkedIn](www.linkedin.com/in/astra-bertelli-583904297): I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at [website](https://astrabert.vercel.app/) and [Résumé](https://astrabert.vercel.app/Resume.pdf) for more details about me,  or find me on [LinkedIn](www.linkedin.com/in/astra-bertelli-583904297): I'm open to feedback and suggestions!\
+✍️ &nbsp;Did you know that I also run a weekly blog? Check it out [here](https://astrabert.github.io/hophop-science/)!\
+🥰 &nbsp;Looking for way to support me and my work? Find everything in [my sponsor page](https://github.com/sponsors/AstraBert)!
 
 
 <!---
