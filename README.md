@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Astra+Bertelli;Researcher+%7C+Undergrad+Student+%7C+Biological-Sciences;Bioinformatics+%7C+Genomics+%7C+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Astra+Bertelli;Blogger and Researcher+%7C+Undergrad+Student+%7C+Life Sciences;Bioinformatics+%7C+Genomics+%7C+ML" alt="Typing SVG" />
 </a>
 <br/>
 
