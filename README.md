@@ -31,7 +31,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraBert&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-👋 &nbsp;Hi, I’m Astra Bertelli, a 21-years-old student and (bio)informatics geek\
+👋 &nbsp;Hi, I’m Astra Clelia Bertelli, a 21-years-old student and (bio)informatics geek\
 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems.\
 🎓 &nbsp;I'm currently studying Biological Sciences at the University of Pavia (Italy).\
 🌱 &nbsp;I'm on track for learning more about Bioinformatics applied to genomics, Artificial Intelligence and Machine Learning.\
