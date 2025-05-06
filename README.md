@@ -38,7 +38,7 @@
 💞️ &nbsp;I’m looking to collaborate on open-source AI projects\
 💭 &nbsp;I'm determined to democratise the access to AI, create helpful technology and advance the open source community\
 ✉️ &nbsp;[Email me](astraberte9@gmail.com)! I'll try to respond as soon as I can\
-📄 &nbsp;Please have a look at [website](https://cleliasportfolio.xyz) and [Résumé](https://www.cleliasportfolio.xyz/resume) for more details about me,  or find me on [LinkedIn](https://www.linkedin.com/in/astra-clelia-bertelli-583904297/): I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at [website](https://cleliasportfolio.xyz) and [Résumé](https://www.cleliasportfolio.xyz/resume) for more details about me,  or find me on [LinkedIn](https://www.linkedin.com/in/clelia-astra-bertelli-583904297/): I'm open to feedback and suggestions!\
 🥰 &nbsp;Looking for way to support me and my work? Find everything in [my sponsor page](https://github.com/sponsors/AstraBert)!
 
 
