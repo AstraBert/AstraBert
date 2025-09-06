@@ -7,10 +7,10 @@
 <a href="https://clelia.dev">
     <img src="https://img.shields.io/badge/Website-clelia.dev-red?style=flat-square">
 </a>  
-<a href="https://astrabert.github.io/hophop-science/">
-    <img src="https://img.shields.io/badge/My Blog-HOPHOP Science-purple?style=flat-square">
+<a href="https://resume.clelia.dev/">
+    <img src="https://img.shields.io/badge/Resume-purple?style=flat-square">
 </a>  
-<a href="https://www.linkedin.com/in/astra-clelia-bertelli-583904297/">
+<a href="https://www.linkedin.com/in/clelia-astra-bertelli-583904297/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:astraberte9@gmail.com">
