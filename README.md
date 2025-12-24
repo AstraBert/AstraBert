@@ -28,9 +28,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraBert&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-👋 &nbsp;Hi, I’m Clelia Astra Bertelli, a 21-years-old girly dev\
+👋 &nbsp;Hi, I’m Clelia Astra Bertelli, a 22-years-old girly dev\
+🎓 &nbsp;I completed my Bachelor's in Biological Sciences at the University of Pavia (Italy)\
 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems\
-🎓 &nbsp;I'm currently studying Biological Sciences at the University of Pavia (Italy)\
 🌱 &nbsp;I'm cooking and experimenting with AI, python, agentic systems, and data-oriented solutions\
 💞️ &nbsp;I’m looking to collaborate on open-source AI projects\
 💭 &nbsp;I'm determined to democratise the access to AI, create helpful technology and advance the open source community\
